@@ -9,29 +9,38 @@
       "url": "https://www.mediafire.com/file/9o3z3zk0sv6wm4j/PassatHook_v2_.zip/file",
       "type": "zip",
       "size_mb": 13,
-      "default": true,
+      "default": false,
       "target": "PassatHook"
     },
     {
-      "id": "produkt2",
-      "name": "Produkt 2",
-      "description": "Beschreibung hier",
-      "url": "https://github.com/DEIN-USER/DEIN-REPO/releases/download/v1.0/produkt2.zip",
+      "id": "veloctiy",
+      "name": "Veloctiy Executer",
+      "description": "version 1",
+      "url": "https://www.mediafire.com/file/s9c72zst5fl3dko/Velocity.zip/file",
       "type": "zip",
-      "size_mb": 8,
+      "size_mb": 12.46,
       "default": false,
-      "target": "Produkt2"
+      "target": "Veloctiy Executer"
     },
     {
-      "id": "produkt3",
-      "name": "Produkt 3",
-      "description": "Einzelne Datei, wird nicht entpackt",
-      "url": "https://github.com/DEIN-USER/DEIN-REPO/releases/download/v1.0/produkt3.exe",
+      "id": "real",
+      "name": "Real Executer",
+      "description": "version 1",
+      "url": "https://www.mediafire.com/file/l6iozomj24c66o8/Real-Executer-Setup_pw-1.zip/file",
       "type": "file",
-      "filename": "produkt3.exe",
-      "size_mb": 4,
+      "size_mb": 8.61,
       "default": false,
-      "target": "Produkt3"
+      "target": "Real Executer"
+    },
+    {
+      "id": "bygone",
+      "name": "ByGoneSpoofer",
+      "description": "version 1",
+      "url": "https://www.mediafire.com/file/6h0l4sbyd6rwhkr/ByGoneSpoofer.exe/file",
+      "type": "file",
+      "size_mb": 9.26,
+      "default": false,
+      "target": "ByGoneSpoofer"
     }
   ]
 }
