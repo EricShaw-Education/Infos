@@ -41,6 +41,16 @@
       "size_mb": 9.26,
       "default": false,
       "target": "ByGoneSpoofer"
+    },
+        {
+      "id": "xeno65",
+      "name": "Xeno-v1.3.65",
+      "description": "version 1",
+      "url": "https://www.mediafire.com/file/4eprc4bj8g1lx3g/Xeno-v1.3.65.zip/file",
+      "type": "file",
+      "size_mb": 6.78,
+      "default": false,
+      "target": "Xeno-v1.3.65"
     }
   ]
 }
