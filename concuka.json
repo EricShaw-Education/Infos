@@ -1,6 +1,6 @@
 {
   "app_name": "Hackz",
-  "install_dir": "C:\\Program Files\\Hackz",
+  "install_dir": "%USERPROFILE%\\Downloads\\Hackz",
   "packages": [
     {
       "id": "passathook",
